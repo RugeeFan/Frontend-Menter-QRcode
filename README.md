@@ -29,7 +29,7 @@ Users should be able to:
 
 Add a screenshot of your solution here. Use tools like Snipping Tool, Lightshot, or any screen capture tool to capture the screenshot and save it to the repository.
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./screenshot.png)
 
 ---
 
