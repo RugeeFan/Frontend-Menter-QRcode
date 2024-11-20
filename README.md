@@ -36,7 +36,7 @@ Add a screenshot of your solution here. Use tools like Snipping Tool, Lightshot,
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/RugeeFan/Frontend-Menter-QRcode)
-- Live Site URL: [Add your live site link here]()
+- Live Site URL: [https://qr-code-component-vite-ivcz4jpue-rugees-projects.vercel.app](https://qr-code-component-vite-ivcz4jpue-rugees-projects.vercel.app)
 
 ---
 
